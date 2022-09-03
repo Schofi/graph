@@ -1,3 +1,3 @@
-module github.com/Play-with-Graph-Algorithms
+module github.com/Schofi/Play-with-Graph-Algorithms
 
 go 1.18
